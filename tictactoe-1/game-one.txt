@@ -1,10 +1,10 @@
 Game One:  
-Player X: 
+Player X: fabiantheblind
 Player O: 
 
 
 -------------
-|   |   |   |
+| X |   |   |
 -------------
 |   |   |   |
 -------------
