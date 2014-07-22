@@ -4,7 +4,7 @@ Player O: basilikumdesign
 
 
 -------------
-| X |   | X |
+| X | O | X |
 -------------
 <<<<<<< HEAD
 |   | o  |   |
