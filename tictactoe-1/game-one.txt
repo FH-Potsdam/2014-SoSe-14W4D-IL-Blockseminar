@@ -1,10 +1,10 @@
 Game One:  
 Player X: fabiantheblind
-Player O: 
+Player O: basilikumdesign
 
 
 -------------
-| X |   |   |
+| X |   | X |
 -------------
 |   | O |   |
 -------------
